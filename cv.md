@@ -10,3 +10,5 @@
         return arr;
 }
 6. my experience: there is no work experience in the IT field. experience in other areas described in paragraph 3
+7. education: there is also information in point 3, and also last year I finished the 1st stage on the same course
+8. foreign languages: at the moment, my English language proficiency level is A2+, but I continue to actively study it
